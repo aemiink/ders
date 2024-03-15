@@ -1,0 +1,9 @@
+"Komutlar"
+
+/merhaba --> botuna selam vermek için kullnılan bir komuttur.
+/iyiyim --> eğer iyiyseniz vereceğiniz cevap bunula başlamaıdır.
+/kotuyum --> eğer kötüyseniz bununla başlamlısınız.
+/Ders --> ders programı istiyorsanız bununla başlayın.
+/Sıfre --> eğer bir şifre istiyorsanız bu komutu kullanın.
+/yazimiturami --> botun yazı mı tura mı seçtiğini göstermek için bu komutu kullanın.
+/emoji --> Botun rasrtgele bir emoji seçmesini sağlarız.
